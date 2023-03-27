@@ -4,7 +4,7 @@ export const Welcome = defineComponent({
  setup: (props, context) => {
   return () => (
     <>
-   <header>Welcome</header>
+   <header>logo</header>
    <RouterView/>
    </>
   )
